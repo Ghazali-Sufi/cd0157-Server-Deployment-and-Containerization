@@ -31,4 +31,3 @@ htmlcov/
 .github/**
 
 ./venv
-venv/
